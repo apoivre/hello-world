@@ -1,2 +1,3 @@
 # hello-world
-My first repository
+
+Hi I'm Aurelia and it's my first day using GitHub !
